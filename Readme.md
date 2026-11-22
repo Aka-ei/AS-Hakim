@@ -1,9 +1,12 @@
-﻿====================================================================
-  PHOENIX WRIGHT: ACE ATTORNEY TRILOGY - TÜRKÇE YAMA KURULUM REHBERİ
-====================================================================
+# As Hakim Türkçe
 
-1. YAMA İÇERİĞİ
---------------------------------------------------------------------
+![Discord](https://img.shields.io/discord/1335580256987254804?style=for-the-badge&logo=discord&label=Akaei&color=7289da)
+![Static Badge](https://img.shields.io/badge/Çeviri-AI-red?style=for-the-badge)
+
+Bu proje PHOENIX WRIGHT: ACE ATTORNEY TRILOGY için yapılmış bir Türkçe yamadır.
+
+## YAMA İÇERİĞİ
+
 Bu paket, Phoenix Wright: Ace Attorney Trilogy (PC) oyununun tam
 Türkçe çevirisini içerir (toplam 187 yamalı dosya, ~19.3 MB):
 
@@ -16,8 +19,8 @@ Türkçe çevirisini içerir (toplam 187 yamalı dosya, ~19.3 MB):
     Al Bakalım vb. mahkeme efektleri ve arayüz görselleri)
 
 
-2. HIZLI KURULUM (ÖNERİLEN)
---------------------------------------------------------------------
+## HIZLI KURULUM (ÖNERİLEN)
+
   1) İndirdiğiniz arşiv dosyasını (ZIP/RAR) önce bilgisayarınızda
      bir klasöre çıkarın. (Arşiv içinden doğrudan çalıştırmayın.)
   2) "Kurulum.bat" dosyasına çift tıklayın.
@@ -31,8 +34,8 @@ Türkçe çevirisini içerir (toplam 187 yamalı dosya, ~19.3 MB):
   6) Kurulum tamamlandığında oyunu normal şekilde başlatabilirsiniz.
 
 
-3. MANUEL KURULUM (İSTEĞE BAĞLI)
---------------------------------------------------------------------
+## MANUEL KURULUM (İSTEĞE BAĞLI)
+
 Otomatik kurulum aracını kullanmak istemiyorsanız:
 
   1) Öncelikle oyun klasörünüzdeki "PWAAT_Data" içindeki ilgili
@@ -45,8 +48,8 @@ Otomatik kurulum aracını kullanmak istemiyorsanız:
      tüm dosyaları değiştirin.
 
 
-4. YAMAYI KALDIRMA / ORİJİNAL OYUNA DÖNME
---------------------------------------------------------------------
+## YAMAYI KALDIRMA / ORİJİNAL OYUNA DÖNME
+
   * Hızlı Kurulum ile kurduysanız:
     "Kurulum.bat" dosyasını açıp [2] Yamayı Kaldır seçeneğini seçin.
     "TR_Yama_Yedek" klasöründeki orijinal dosyalar otomatik olarak
@@ -58,8 +61,8 @@ Otomatik kurulum aracını kullanmak istemiyorsanız:
     dosyalara dönebilir.
 
 
-5. ÖNEMLİ NOTLAR VE SORUN GİDERME
---------------------------------------------------------------------
+## ÖNEMLİ NOTLAR VE SORUN GİDERME
+
   * OYUN DİLİ:
     Türkçe yama, oyunun İngilizce (English) dil dosyalarının yerine
     kurulur. Oyunu açtığınızda metinler başka bir dilde görünüyorsa
